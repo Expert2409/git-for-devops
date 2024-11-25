@@ -1,1 +1,2 @@
-mkdir git-commands-repo
+mkdir git-commands-repository
+
